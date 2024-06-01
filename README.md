@@ -16,7 +16,7 @@
 | Multi-Device Support             | Operate the bot on multiple devices simultaneously     | ✅           | 2.0        |
 | AI Photo Enhancement             | Enhance photos using advanced AI algorithms            | ✅           | 2.0        |
 | Downloader Commands              | Download various types of content from the internet     | ✅           | 2.0        |
-| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 2.0        |
+| Hidden NSFW Commands             
 Get Session ID (SERVER 1)
     <br>
 <a href='https://replit.com/@S4SalmanYt/XLICON-V2-PAIRING' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
