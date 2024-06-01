@@ -115,7 +115,7 @@ if scan qr is not working please try using pairing code i am currently working o
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-4.  ***Click [`FORK`](https://github.com/Kingjux/Venocyber-md/fork) and `Star ⭐ Repository` for Courage.***
+4.  ***Click [`FORK`](https://github.com/Olamiposissi/Fearless-md) and `Star ⭐ Repository` for Courage.***
 5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingjux%2Fvenocyber-md)***
@@ -214,7 +214,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 <p align="center">
   <a href="https://github.com/Olamiposissi/Fearless-md">
-    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/f17d47cb3b8b05d019a0c.jpg">
+    <img alt="fearless docs" height="300" src="https://telegra.ph/file/f17d47cb3b8b05d019a0c.jpg">
   </a>
 </p>
     
