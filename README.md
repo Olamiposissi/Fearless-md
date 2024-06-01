@@ -54,11 +54,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Kingjux/Venocyber-md"><b>Venocyber-md</b></a> Support Deploy On...
+  <a href="https://github.com/Olamiposissi/Fearless-md"><b>fearless-md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/kingjux/venocyber-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/Olamiposissi/Fearless-md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
@@ -95,9 +95,9 @@
 
 
 
-<h3>Venocyber-MD Stats</h3>
+<h3>Fearless-MD Stats</h3>
 
-![Venocyber-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=kingjux&repo=venocyber-md&show_owner=true&theme=dark)
+![fearless-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=kingjux&repo=venocyber-md&show_owner=true&theme=dark)
 
 
     
@@ -106,12 +106,12 @@
 ## Deployment Methods
 if scan qr is not working please try using pairing code i am currently working on it
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://venocyber-qr-ce49794175c5.herokuapp.com/) or server 2 qr code
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://fearless-qr-ce49794175c5.herokuapp.com/) or server 2 qr code
     <br>
-<a href="https://venocyber-md-qr.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-2.  [`PARING CODE`](https://venocybersessiong-1431c6f72219.herokuapp.com/pair). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
+<a href="https://fearless-qr.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+2.  [`PARING CODE`](https://fearlesssessiong-1431c6f72219.herokuapp.com/pair). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
     <br>
-<a href="https://venocyber-md-session-oz6r.onrender.com/pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
+<a href="https://fearless-md-session-oz6r.onrender.com/pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
@@ -130,7 +130,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/MSSH2UWWOQBDL1)
+- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/+2348075952205)
 
 
 ### I Am
