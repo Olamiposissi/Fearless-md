@@ -34,4 +34,6 @@ Get Session ID (SERVER 1)
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2FXLICON-V2-MD%3Ftab%3Dreadme-ov-file&template=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2FXLICON-V2-MD%3Ftab%3Dreadme-ov-file' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>   >CHANGE THE USER NAME ON THE LINK AND DEPLOY
+<a href='https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2FXLICON-V2-MD%3Ftab%3Dreadme-ov-file&template=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2FXLICON-V2-MD%3Ftab%3Dreadme-ov-file' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<br>
+<br>[WhatsApp channel].scr="https://chat.whatsapp.com/FrZMclZccad72BbiRlHFKa"
