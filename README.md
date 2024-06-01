@@ -30,22 +30,22 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+255698101622?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-md+Repo" target="_blank">
+  <a href="https://wa.me/+2348075952205?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="Venocyber-md is free to use" href="https://github.com/Kingjux/Venocyber-md" target="_blank">
-    <img alt="Venocybertech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="fearless-md is free to use" href=".ttps://github.com/Olamiposissi/Fearless-md" target="_blank">
+    <img alt="fearlesstech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{kingjux}/count.svg" alt="Venocyber-md :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{fearless}/count.svg" alt="fearless-md :: Visitor's Count" /></p>
 ---
 
 
 
 
-<p align="center"> 𝗩𝗲𝗻𝗼𝗰𝘆𝗯𝗲𝗿-𝗺𝗱 uses
-  <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
+<p align="center"> FEARLESS-𝗺𝗱 uses
+  <a href="https://github.com/Olamiposissi/Fearless-md">Multi-Device Baileys.</a>
 </p>
 <p align="center">
   <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
